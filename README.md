@@ -1,4 +1,4 @@
-# 📰 El País Opinion Scraper 
+# 📰 Selenium News Outlet
 
 A robust web scraper that extracts and translates opinion articles from El País! 🇪🇸 ➡️ 🇬🇧
 
@@ -37,8 +37,8 @@ Most frequent words:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/el-pais-scraper.git
-cd el-pais-scraper
+git clone https://github.com/yourusername/selenium-news-outlet.git
+cd selenium-news-outlet
 ```
 
 2. Create and activate virtual environment
